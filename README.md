@@ -1,6 +1,6 @@
 ### Hello there, I'm Vinicius Hessel! 😷 
 
-I'm a FullSatck Web Developer.
+I'm a FullStack Web Developer.
 
 ## Main stack ⚙️
 
